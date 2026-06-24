@@ -4,7 +4,7 @@
 **Last Updated:** May 8, 2025
 **Application Name:** CUI CHAT
 **Package Name:** online.cuichat.app
-**Operated by:** Atif / CUI CHAT Team
+**Operated by:** Haseeb / CUI CHAT Team
 
 ---
 
@@ -125,7 +125,7 @@ Upon confirmation, the following data will be permanently deleted:
 - Your device token and notification preferences.
 - All media files you have uploaded.
 
-**Data deletion requests submitted via email:** You may also request account deletion by emailing us at **support@cuichat.online** with the subject line "Account Deletion Request". We will process your request within 30 days.
+**Data deletion requests submitted via email:** You may also request account deletion by emailing us at **contact@cuichat.online** with the subject line "Account Deletion Request". We will process your request within 30 days.
 
 ---
 
@@ -149,7 +149,7 @@ We recommend reviewing the privacy policies of these third-party services for fu
 
 CUI CHAT is **not directed at children under the age of 13**. We do not knowingly collect personal information from children under 13 years of age.
 
-If you are a parent or guardian and you believe your child under the age of 13 has provided us with personal information, please contact us immediately at **support@cuichat.online**. We will promptly delete the relevant information from our records.
+If you are a parent or guardian and you believe your child under the age of 13 has provided us with personal information, please contact us immediately at **contact@cuichat.online**. We will promptly delete the relevant information from our records.
 
 ---
 
@@ -164,7 +164,7 @@ Depending on your jurisdiction, you may have the following rights regarding your
 - **Right to Data Portability** — request your data in a structured, machine-readable format.
 - **Right to Object** — object to the processing of your personal data for certain purposes.
 
-To exercise any of these rights, contact us at **muhammadhaseebamjad90@gmail.com**.
+To exercise any of these rights, contact us at **contact@cuichat.online**.
 
 ---
 
@@ -184,7 +184,7 @@ Your continued use of CUI CHAT after the updated Privacy Policy becomes effectiv
 If you have any questions, concerns, or requests regarding this Privacy Policy or the way we handle your data, please contact us:
 
 **CUI CHAT Support Team**
-Email: **muhammadhaseebamjad90@gmail.com**
+Email: **contact@cuichat.online**
 Application: CUI CHAT (online.cuichat.app)
 
 We aim to respond to all inquiries within **5 business days**.
